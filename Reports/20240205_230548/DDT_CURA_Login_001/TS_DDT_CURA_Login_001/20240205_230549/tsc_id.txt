@@ -1,0 +1,1 @@
+Test Suites/Collection_Level_Login_DDT_001/TS_Collection_CURA_Login_001

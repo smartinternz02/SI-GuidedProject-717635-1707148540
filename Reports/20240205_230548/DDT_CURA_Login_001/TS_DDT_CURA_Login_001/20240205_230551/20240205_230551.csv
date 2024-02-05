@@ -1,0 +1,24 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_DDT_CURA_Login_001,Edge Chromium 121,,,05-02-2024 23:05:59,05-02-2024 23:06:39,40.403s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_Login_Validation_DDT_001/TC_CURA_Login_001,Edge Chromium 121,,,05-02-2024 23:05:59,05-02-2024 23:06:24,24.718s,PASSED
+"openBrowser("""")",Edge Chromium 121,,,05-02-2024 23:06:00,05-02-2024 23:06:04,3.995s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Edge Chromium 121,,,05-02-2024 23:06:04,05-02-2024 23:06:12,8.629s,PASSED
+"click(findTestObject(""Object Repository/TC_CURA_Login_OR_001/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle""))",Edge Chromium 121,,,05-02-2024 23:06:12,05-02-2024 23:06:13,0.754s,PASSED
+"click(findTestObject(""Object Repository/TC_CURA_Login_OR_001/Page_CURA Healthcare Service/a_Login""))",Edge Chromium 121,,,05-02-2024 23:06:13,05-02-2024 23:06:14,1.475s,PASSED
+"setText(findTestObject(""Object Repository/TC_CURA_Login_OR_001/Page_CURA Healthcare Service/input_Username_username""), Username)",Edge Chromium 121,,,05-02-2024 23:06:14,05-02-2024 23:06:15,0.938s,PASSED
+"setText(findTestObject(""Object Repository/TC_CURA_Login_OR_001/Page_CURA Healthcare Service/input_Password_password""), Password)",Edge Chromium 121,,,05-02-2024 23:06:15,05-02-2024 23:06:16,0.908s,PASSED
+"click(findTestObject(""Object Repository/TC_CURA_Login_OR_001/Page_CURA Healthcare Service/button_Login""))",Edge Chromium 121,,,05-02-2024 23:06:16,05-02-2024 23:06:17,1.020s,PASSED
+delay(6),Edge Chromium 121,,,05-02-2024 23:06:17,05-02-2024 23:06:23,6.074s,PASSED
+closeBrowser(),Edge Chromium 121,,,05-02-2024 23:06:23,05-02-2024 23:06:24,0.369s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_Login_Validation_DDT_001/TC_CURA_Login_001,Edge Chromium 121,,,05-02-2024 23:06:24,05-02-2024 23:06:39,15.104s,PASSED
+"openBrowser("""")",Edge Chromium 121,,,05-02-2024 23:06:24,05-02-2024 23:06:25,1.058s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Edge Chromium 121,,,05-02-2024 23:06:25,05-02-2024 23:06:28,2.693s,PASSED
+"click(findTestObject(""Object Repository/TC_CURA_Login_OR_001/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle""))",Edge Chromium 121,,,05-02-2024 23:06:28,05-02-2024 23:06:28,0.458s,PASSED
+"click(findTestObject(""Object Repository/TC_CURA_Login_OR_001/Page_CURA Healthcare Service/a_Login""))",Edge Chromium 121,,,05-02-2024 23:06:28,05-02-2024 23:06:29,1.030s,PASSED
+"setText(findTestObject(""Object Repository/TC_CURA_Login_OR_001/Page_CURA Healthcare Service/input_Username_username""), Username)",Edge Chromium 121,,,05-02-2024 23:06:29,05-02-2024 23:06:30,0.870s,PASSED
+"setText(findTestObject(""Object Repository/TC_CURA_Login_OR_001/Page_CURA Healthcare Service/input_Password_password""), Password)",Edge Chromium 121,,,05-02-2024 23:06:30,05-02-2024 23:06:31,0.838s,PASSED
+"click(findTestObject(""Object Repository/TC_CURA_Login_OR_001/Page_CURA Healthcare Service/button_Login""))",Edge Chromium 121,,,05-02-2024 23:06:31,05-02-2024 23:06:33,1.738s,PASSED
+delay(6),Edge Chromium 121,,,05-02-2024 23:06:33,05-02-2024 23:06:39,6.010s,PASSED
+closeBrowser(),Edge Chromium 121,,,05-02-2024 23:06:39,05-02-2024 23:06:39,0.372s,PASSED
